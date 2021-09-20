@@ -98,7 +98,7 @@ html {
   .upbtn{
     position: fixed;
     left: 93vw;
-    top: 85vh;
+    top: 75vh;
     display: none;
   }
   .upbtn i{
